@@ -1,0 +1,17 @@
+p {
+  color:green;
+}
+body {
+  background-color:#e8ffff;
+}
+.differentfont {
+  font-family:'Zen Loop',cursive;
+}
+#uniqueID {
+  color:purple
+}
+.left_margin {
+  height: 10rem;
+  margin_top: 3rem;
+  margin_left: 5rem;
+}
